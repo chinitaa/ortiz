@@ -36,7 +36,7 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="https://twitter.com/">twitter</a></li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">thalia doroteo <b class="caret"></b></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">thalia doroteo 2016<b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<li><a href="#">estilo</a></li>
 								<li><a href="#">moda corea</a></li>
