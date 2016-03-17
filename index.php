@@ -34,7 +34,7 @@
 						<button type="submit" class="btn btn-default">Submit</button>
 					</form>
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="https://twitter.com/">twitter</a></li>
+						<li><a href="https://twitter.com/">twitter thalia</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">thalia doroteo 2016<b class="caret"></b></a>
 							<ul class="dropdown-menu">
